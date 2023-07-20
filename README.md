@@ -1,1 +1,2 @@
 # Genetic-Algorithm
+This is my mid-term Computer Science project. It's simple implementation of evolution algorithm with C++. It takes random number of random individuals (created as chain of numbers) and "cut" them in random places and connect every pair to make a descendant. After connecting all pairs there are generated factors of extinction and multiplication, and every individual is classified. Individuals below factor of extinction are deteted from population and those above factor of multiplication can be chosen as "parents".
